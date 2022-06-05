@@ -26,6 +26,8 @@ Resulting workflow: Typical login steps
 
    Whatever geographically-local Sim card is installed would be used for Government Emergency Telecommunications Service calls (like 911), which is ideal.
 
+These options were chosen for Security, Reliability and Availabilty.
+
 .. _virtual-phone-numbers-choose-primary-provider:
 
 Choose a Provider
