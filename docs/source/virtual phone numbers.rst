@@ -24,7 +24,8 @@ Resulting workflow: Typical login steps
 
 .. note::
 
-   Whatever geographically-local Sim card is installed would be used for Government Emergency Telecommunications Service calls (like 911), which is ideal.
+   Calls/messages to 911 (emergency) should use the local SIM, which is ideal.
+
 
 These options were chosen for Security, Reliability and Availabilty.
 
@@ -33,7 +34,7 @@ These options were chosen for Security, Reliability and Availabilty.
 Choose a Provider
 ---------
 
-Choose one of these providers for the Primary Virtual Phone Number.
+Choose one of these providers for the Primary Virtual Phone Number
 
    - |logo_googlevoice| Google Voice
    
@@ -54,6 +55,8 @@ Choose one of these providers for the Primary Virtual Phone Number.
 
 .. |logo_textnow| image:: images/virtual_phone_numbers/logo_textnow.png
    :width: 8%
+
+
 
 .. _virtual-phone-numbers-googlevoice:
 
@@ -178,6 +181,7 @@ On the smartphone:
    - Choose Sign Up with Email
    - Create an account entry, within *Bitwarden*, save the entry, and copy/paste these credentials into the *ClickSend* app.
    - Choose a phone number to use
+      
       - Suggestion: choose an area code and region where you have not lived (helps to identify spam).
    - Make an In-App Purchase to Lock in Number with an Annual Subscription ($5 USD).
    - In this *BitWarden* acount entry's Notes section, add a line saying something like: ``VN TextNow your_number`` 
