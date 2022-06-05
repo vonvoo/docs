@@ -1,16 +1,33 @@
 Virtual Phone Numbers Continued
 =================
 
-Has an online account rejected adding your :ref:`Primary Virtual Phone Number <virtual-phone-numbers-choose-primary-provider>`? This tutorial will walk through configuring additional *Virtual Phone Numbers*, as needed.
+This tutorial will walk through configuring additional *Virtual Phone Numbers*, as needed.
+
+.. note::
+
+   Additional Virtual Phone Numbers are only needed if
+      
+      - An online account rejects your :ref:`Primary Virtual Phone Number <virtual-phone-numbers-choose-primary-provider>`
+         
+         - Otherwise, continue to the next :doc:`Bring It all Together <bring it all together>` Tutorial
+            
+            - Return to this Tutorial as needed
+
+
+Choose another Provider
+---------
+
+Move through each, until the online account is linked to the *Virtual Phone Number*.
+
 
 |logo_googlevoice| |logo_textnow| Alt/Secondary Provider
 ---------
 
 .. |logo_googlevoice| image:: images/virtual_phone_numbers/logo_googlevoice.png
-   :width: 14%
+   :width: 12%
 
 .. |logo_textnow| image:: images/virtual_phone_numbers/logo_textnow.png
-   :width: 15%
+   :width: 13%
 
 In the :doc:`virtual phone numbers` Tutorial, one of two providers was chosen as the Primary. The other can be configured, now, as a Secondary. :ref:`Refer to it <virtual-phone-numbers-choose-primary-provider>` for instructions.
 
