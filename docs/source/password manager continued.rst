@@ -80,8 +80,8 @@ On your computer
 
 ...Log in
    
-   1. Choose to **Tools** (top)
-   2. Choose to **Export Vault** (far-left)
+   1. Choose **Tools** (top)
+   2. Choose **Export Vault** (far-left)
    3. Choose the File Format drop-down option **.json (Encrypted)**
    4. Choose **Export Vault**
    
