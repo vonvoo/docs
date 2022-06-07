@@ -123,18 +123,18 @@ On your computer, log into the *Bitwarden* app and navigate to Account > Two-ste
             - Choose **Enable**.
                
                - Choose **Close**.
-   4. In the browser, choose View Recovery Code (this is the *Bitwarden Recovery Code*)
+   6. In the browser, choose View Recovery Code (this is the *Bitwarden Recovery Code*)
          
-         4.1 **Write** this code on a small piece of paper 
+         6.1 **Write** this code on a small piece of paper 
                
                - OR
-         4.1 **Copy/paste** into Notepad and print it. Delete the contents of Notepad and close the Notepad app (Do not save the file).
+         6.1 **Copy/paste** into Notepad and print it. Delete the contents of Notepad and close the Notepad app (Do not save the file).
          
-         4.2 **Copy/paste** the code into the Bitwarden entry created earlier: ``Bitwarden - example@gmail.com``
+         6.2 **Copy/paste** the code into the Bitwarden entry created earlier: ``Bitwarden - example@gmail.com``
             
             - Save the entry in *Bitwarden*
 
-**Verify that you have completed BOTH subsections 4.1 and 4.2**
+**Verify that you have completed BOTH subsections 6.1 and 6.2**
 
 .. image:: images/password_manager_continued/enable_2fa_for_bitwarden.png
    :width: 700
