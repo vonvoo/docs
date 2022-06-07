@@ -118,7 +118,7 @@ On your computer, log into the *Bitwarden* app and navigate to Account > Two-ste
       
       - On your smartphone, open the *Authy* app. Tap the Kebab button (top-right) and choose Add Account. Scan the QR code and save the entry.
          
-         - Enter TOTP (verification code), in the browser.
+         - Enter the TOTP (verification code), in the browser.
          
             - Choose **Enable**.
                
