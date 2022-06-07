@@ -110,10 +110,10 @@ On your computer
 
 On your computer, log into the *Bitwarden* app and navigate to Account > Two-step Login. A browser tab will open to the *Bitwarden Web Vault*. Log in.
    
-   1. Choose to **Profile** (top-right)
-   2. Choose to **Account Settings**
-   3. Choose to **Security** (far-left)
-   4. Choose to **Two-step Login** (top-middle)
+   1. Choose **Profile** (top-right)
+   2. Choose **Account Settings**
+   3. Choose **Security** (far-left)
+   4. Choose **Two-step Login** (top-middle)
    5. Choose Providers > Authenticator App > **Manage**
       
       - On your smartphone, open the *Authy* app. Tap the Kebab button (top-right) and choose Add Account. Scan the QR code and save the entry.
