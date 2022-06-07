@@ -107,7 +107,7 @@ On a computer:
       
          - Suggestion: choose an area code and region where you have not lived (this helps to identify spam).
    
-   - In this *BitWarden* acount entry's Notes section, add a line saying something like: ``VN GoogleVoice your_number`` 
+   - In this *BitWarden* account entry's Notes section, add a line saying something like: ``VN GoogleVoice your_number`` 
 
 .. _virtual-phone-numbers-googlevoice-configure:
 
