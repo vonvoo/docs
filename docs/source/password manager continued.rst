@@ -50,7 +50,7 @@ Within *Bitwarden*, create an entry as a self-reference (This does not count as 
 |logo_bitwarden| Verify the *Bitwarden* Account
 ------------
 
-On your computer
+On your computer...
    
    - In the browser, navigate to the *Bitwarden Web Vault*
 
@@ -71,7 +71,7 @@ On your computer
 |logo_bitwarden| Export the *Bitwarden Vault*
 ------------
 
-On your computer
+On your computer...
    
    - In the browser, navigate to the *Bitwarden Web Vault*
 
