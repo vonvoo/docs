@@ -50,7 +50,9 @@ Within *Bitwarden*, create an entry as a self-reference (This does not count as 
 |logo_bitwarden| Verify the *Bitwarden* Account
 ------------
 
-On your computer, log into the *Bitwarden* app and naviate to Account > Two-step Login. A browser tab will open to the *Bitwarden Web Vault*...
+On your computer
+   
+   - In the browser, navigate to the *Bitwarden Web Vault*
 
   .. Warning::
      Never allow the browser to save the *Bitwarden* credentials.
@@ -60,19 +62,33 @@ On your computer, log into the *Bitwarden* app and naviate to Account > Two-step
    - Choose Verify your account
    - Follow those instructions
 
+.. note::
+   External Link: https://vault.bitwarden.com
+
+
 .. _password-manager-continued-export-the-bitwarden-vault:
 
 |logo_bitwarden| Export the *Bitwarden Vault*
 ------------
 
-On your computer, log into the *Bitwarden* app and naviate to Account > Two-step Login. A browser tab will open to the *Bitwarden Web Vault*. Log in.
+On your computer
    
-   1. Navigate to **Tools**
-   2. Navigate to **Export Vault**
+   - In the browser, navigate to the *Bitwarden Web Vault*
+
+  .. Warning::
+     Never allow the browser to save the *Bitwarden* credentials.
+
+...Log in
+   
+   1. Choose to **Tools** (top)
+   2. Choose to **Export Vault** (far-left)
    3. Choose the File Format drop-down option **.json (Encrypted)**
    4. Choose **Export Vault**
    
       - Save this file to an unencrypted location.
+
+.. note::
+   External Link: https://vault.bitwarden.com
 
 .. image:: images/password_manager_continued/export_encrypted_vault.png
    :width: 400
@@ -94,9 +110,11 @@ On your computer, log into the *Bitwarden* app and naviate to Account > Two-step
 
 On your computer, log into the *Bitwarden* app and navigate to Account > Two-step Login. A browser tab will open to the *Bitwarden Web Vault*. Log in.
    
-   1. Navigate to **Settings**
-   2. Navigate to **Two-step Login**
-   3. Choose Providers > Authenticator App > **Manage**
+   1. Choose to **Profile** (top-right)
+   2. Choose to **Account Settings**
+   3. Choose to **Security** (far-left)
+   4. Choose to **Two-step Login** (top-middle)
+   5. Choose Providers > Authenticator App > **Manage**
       
       - On your smartphone, open the *Authy* app. Tap the Kebab button (top-right) and choose Add Account. Scan the QR code and save the entry.
          
