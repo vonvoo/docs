@@ -14,7 +14,7 @@
 .. |logo_bitwarden| image:: images/password_manager/logo_bitwarden.png
    :width: 8%
 
-*Bitwarden* will only require the *Bitwarden 2FA Code*, when signing into a browser or when signing into the app for the first time (new smartphone, computer, etc). This 2FA will be retrieved from *Authy*. Should any device with your *Bitwarden*, *Authy*, and *TextNow* apps become inaccessible, the *Bitwarden Recovery Code* will be used - it is 39 characters long. This is considered a disaster recovery scenario and steps will be taken to plan for that possiblity.
+*Bitwarden* will only require the *Bitwarden 2FA Code*, when signing into a browser or when signing into the app for the first time (new smartphone, computer, etc). This 2FA will be retrieved from *Authy*. Should any device with your *Bitwarden*, *Authy*, and *Primary Virtual Phone Number* become inaccessible, the *Bitwarden Recovery Code* will be used - it is 39 characters long. This is considered a disaster recovery scenario and steps will be taken to plan for that possiblity.
 
 .. warning::
 
