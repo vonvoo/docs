@@ -49,6 +49,7 @@ templates_path = ['_templates']
 
 html_theme = 'sphinx_rtd_theme'
 html_logo = 'images/branding/logo_vonvoo.png'
+html_favicon = 'images/branding/favicon.ico'
 
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
