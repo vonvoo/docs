@@ -9,6 +9,11 @@ author = 'Vonvoo'
 release = '0.1'
 version = '0.1.0'
 
+# Build PDF & ePub
+formats:
+  - epub
+  - pdf
+
 # -- General configuration
 
 html_theme_options = {
