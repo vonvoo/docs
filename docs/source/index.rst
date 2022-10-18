@@ -1,22 +1,24 @@
-Welcome to Lumache's documentation!
+.. rst-class: center
+Vonvoo Tutorials
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+**Vonvoo** is a guide to best-securing personal, digital assets.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+:ref:`get-started` or `Get Support <http://www.vonvoo.com/get_support/>`_ or `Learn about this Project <http://www.vonvoo.com/about/>`_
 
-.. note::
-
-   This project is under active development.
-
-Contents
---------
+.. Hidden TOCs
 
 .. toctree::
+   :caption: Essentials Tutorials
+   :maxdepth: 2
+   :hidden:
 
-   usage
-   api
+   get started
+   communication
+   password manager
+   virtual phone numbers
+   communication continued
+   2 factor authentication
+   password manager continued
+   virtual phone numbers continued
+   bring it all together
