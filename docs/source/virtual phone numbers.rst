@@ -40,7 +40,7 @@ There will be exceptions, where *Virtual Phone Numbers* will not be accepted, su
 
 .. _virtual-phone-numbers-choose-primary-provider:
 
-Choose a *Virtual Phone Number* Provider
+Choose a Virtual Phone Number Provider
 ---------
 
 Choose one of these providers for the Primary Virtual Phone Number
