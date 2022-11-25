@@ -29,7 +29,7 @@ Open *Signal* on your smartphone and navigate to Settings > Account > Change Pho
 Other Communication Apps
 ------------
 
-Consider changing other communication apps to using this *Primary Virtual Phone Number*, like WhatsApp.
+Consider changing other communication apps to using this *Primary Virtual Phone Number*, like WhatsApp - Note: not compatible with *TextNow*.
 
 .. note::
    The ability to quickly and securely switch to another smartphone or SIM/cell provider, without losing access to your people and stuff, is incredibly powerful.
