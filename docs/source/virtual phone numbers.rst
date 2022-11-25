@@ -60,7 +60,8 @@ Choose one of these providers for the Primary Virtual Phone Number
 
    - |logo_textnow| TextNow
 
-      - $5 USD per year
+      - $5 USD per **year** for Android or $5 USD per **month** for iPhone.
+      - Problematic sending pictures via Android
       - Not supported by WhatsApp
       - Advertisements
       - :ref:`Get Started <virtual-phone-numbers-textnow>`
