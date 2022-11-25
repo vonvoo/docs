@@ -1,7 +1,7 @@
 Communication Continued
 =====
 
-|logo_signal_bg| *Signal* registration will be changed from the Carrier Number to the :ref:`virtual-phone-numbers-primary-virtual-phone-number`.
+|logo_signal_bg| *Signal* registration will be changed from the Carrier Number to the :ref:`Primary Virtual Phone Number <virtual-phone-numbers-choose-primary-provider>`.
 
 .. |logo_signal_bg| image:: images/communication/logo_signal.png
    :width: 10%
