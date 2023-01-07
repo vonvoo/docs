@@ -10,7 +10,7 @@ release = '0.1'
 version = '0.1.1'
 
 # Build PDF & ePub
-#formats:
+formats:
   - epub
   - pdf
 
