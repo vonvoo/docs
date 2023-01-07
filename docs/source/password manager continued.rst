@@ -108,7 +108,9 @@ On your computer...
 |logo_bitwarden| Enable 2FA for Bitwarden
 ------------
 
-On your computer, log into the *Bitwarden* app and navigate to Account > Two-step Login. A browser tab will open to the *Bitwarden Web Vault*...
+On your computer...
+   
+   - In the browser, navigate to the *Bitwarden Web Vault*
 
   .. Warning::
      Never allow the browser to save the *Bitwarden* credentials.
