@@ -7,12 +7,12 @@ copyright = '2022, Vonvoo'
 author = 'Vonvoo'
 
 release = '0.1'
-version = '0.1.0'
+version = '0.1.1'
 
 # Build PDF & ePub
 #formats:
-#  - epub
-#  - pdf
+  - epub
+  - pdf
 
 # -- General configuration
 
