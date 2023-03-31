@@ -54,6 +54,7 @@ Choose one of these providers for the Primary Virtual Phone Number
    
       - Google wants the account created within the U.S.A.
       - Most secure 
+      - Does not support email-to-SMS
       
          - Supports :doc:`2 factor authentication`
       - :ref:`Get Started <virtual-phone-numbers-googlevoice>`
@@ -63,6 +64,7 @@ Choose one of these providers for the Primary Virtual Phone Number
       - $5 USD per **year** for Android or $5 USD per **month** for iPhone.
       - Problematic sending pictures via Android
       - Not supported by WhatsApp
+      - Does not support email-to-SMS
       - Advertisements
       - :ref:`Get Started <virtual-phone-numbers-textnow>`
 
@@ -217,12 +219,6 @@ Keep track of this new number:
 ^^^^^^^^^^^^^^^^^^^^^^
 
 Call and send a test SMS to/from the new *TextNow* number.
-
-Email-to-SMS gateway IS NO LONGER SUPPORTED
-
-   - Some employers use this for sending alerts
-   
-     - Send these, instead, directly to an email address or the *eSIM backup* number above.
 
 Essential Recovery
 ------------
