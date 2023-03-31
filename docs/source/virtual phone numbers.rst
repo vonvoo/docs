@@ -53,9 +53,9 @@ Choose one of these providers for the Primary Virtual Phone Number
    - |logo_googlevoice| Google Voice
    
       - Google wants the account created within the U.S.A.
-      - Most secure 
       - Does not support email-to-SMS
-      
+      - Most secure 
+            
          - Supports :doc:`2 factor authentication`
       - :ref:`Get Started <virtual-phone-numbers-googlevoice>`
 
