@@ -52,7 +52,7 @@ Choose one of these providers for the Primary Virtual Phone Number
 
    - |logo_googlevoice| Google Voice
    
-      - Google wants the account created within the U.S.A.
+      - Google wants the account created within the USA
       - Does not support email-to-SMS
       - Most secure 
             
