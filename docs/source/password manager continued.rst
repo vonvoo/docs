@@ -126,7 +126,7 @@ On your computer...
    4. Choose **Two-step Login** (top-middle)
    5. Choose Providers > Authenticator App > **Manage**
       
-      - On your smartphone, open the *Enty Auth* app. Tap the Kebab button (top-right) and choose Add Account. Scan the QR code and save the entry.
+      - On your smartphone, open the *Enty Auth* app. Tap the plus button (bottom-right) and choose Add Account. Scan a QR code and save the entry.
          
          - Enter the TOTP (verification code), in the browser.
          
