@@ -54,15 +54,15 @@ Install on your smartphone.
 ------------ 
 
 1. On your smartphone, open the app *Ente Auth* and choose sign up.
-2. On your smartphone
+2. On your smartphone, open the app *Bitwarden*
    
-   - Log into *Bitwarden*, and record the following:
+   - Create a new account entry for *Ente Auth*:
       
 	  - Note - if you use Ente for photos, use a new and unique Ente account for Ente Auth.
       - Name: ``Ente Auth - example@gmail.com``
       - Username: ``example@gmail.com``
       - Password: (generate a password within *BitWarden*)
-      - URL: ``https://ente.io/auth/``
+      - URL: ``https://auth.ente.io/login``
       - Save the entry in *Bitwarden*
 
 3. On your smartphone in app *Bitwarden*, tap on the new *Ente Auth* account entry
@@ -71,9 +71,12 @@ Install on your smartphone.
    - Repeat this process for the password
    - Save the account settings within the app, *Ente Auth*
 4. Verify your email address.
-5. On your computer, log into Ente:
-   - Enable 2FA by adding an entry in the smartphone app *Ente Auth*.
-   - Save the recovery code in the app *BitWarden* (this is a critial step to maintain access to the account)
+5. On your computer, log into Ente``https://web.ente.io``:
+   - Click on Settings (top-left) and click on Two-Factor
+   - Enable 2FA
+   - On your smartphone, in the app *Ente Auth* scan this QR code.
+   - On your computer, verify this new 2FA entry.
+   - Save the recovery code in the app *BitWarden*, within the account entry for Ente Auth (this is a critial step to maintain access to the account)
 
 .. _2fa-usage:
 
