@@ -27,7 +27,7 @@ Why this software?
 * Provides critical features unavailable from other *Authenticator Apps*, including:
 
    - Open Source
-   - Encrypted backups to the Ente Auth cloud (only you, not Ente, retains the encryption keys)
+   - Encrypted sync/backups to the Ente Auth cloud (only you, not Ente, retains the encryption keys)
    - Quick recovery on another device
 
 .. note::
@@ -58,7 +58,7 @@ Install on your smartphone.
    
    - Create a new account entry for *Ente Auth*:
       
-	  - Note - if you use Ente for photos, use a new and unique Ente account for Ente Auth.
+	  - Note - if you use Ente for photos, use a new and unique Ente account for *Ente Auth*.
       - Name: ``Ente Auth - example@gmail.com``
       - Username: ``example@gmail.com``
       - Password: (generate a password within *BitWarden*)
@@ -71,7 +71,7 @@ Install on your smartphone.
    - Repeat this process for the password
    - Save the account settings within the app, *Ente Auth*
 4. Verify your email address.
-5. On your computer, log into Ente...
+5. On your computer, log into Ente ...
 
 .. note::
 
@@ -81,7 +81,7 @@ Install on your smartphone.
 
    - Click on Settings (top-left) and click on Two-Factor
    - Enable 2FA
-   - On your smartphone, in the app *Ente Auth* scan this QR code.
+   - On your smartphone, in the app *Ente Auth*, scan this QR code.
    - On your computer, verify this new 2FA entry.
    - Save the recovery code in the app *BitWarden*, within the account entry for Ente Auth (this is a critial step to maintain access to the account)
 
@@ -112,16 +112,18 @@ Enable 2FA for your core email account, using app *Ente Auth*...
 |logo_ente_auth| Migrate
 ------------
 
-All entries in any other *Authenticator Apps* should be migrated to *Ente Auth*. This process will be the similar to the :ref:`2fa-usage` Tutorial section This process should be completed in the final Essentials Tutorial.
+All entries in any other *Authenticator Apps* should be migrated to *Ente Auth*. 
+
+  .. note::
+
+   If you use Duo Push for work, leave those entries in the Duo app.   
+
+This process will be the similar to the :ref:`2fa-usage` Tutorial section This process should be completed in the final Essentials Tutorial.
 
    - Navigate, in a browser, to the account security section of the online account, detailed in the :ref:`2fa-usage` section.
       
       - Within the online account, remove the current Authenticator App entry. Then follow :ref:`Ente Auth Documentation <2fa-Ente Auth-documentation>` to add a new 2FA entry in the *Ente Auth* app.
    - In the old Authenticator App, delete that entry. When the old Authenticator App has no entries, uninstall the app.
-
-  .. note::
-
-   If you use Duo Push for work, leave those entries in the Duo app.   
 
 .. _2fa-essential-recovery:
 
