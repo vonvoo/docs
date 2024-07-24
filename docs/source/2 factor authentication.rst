@@ -94,7 +94,7 @@ Install on your smartphone.
 
    While Vonvoo no longer recommends the 2FA app *Authy*, we can use their documentation as a resource. Whenever they refer to their product, simply use app *Ente Auth* instead.  
 
-Enable 2FA for your core email account, using app *Ente Auth*...
+Enable 2FA for your core email account, using app *Ente Auth* ...
 
    - Use Authy documentation to add the 2FA entry to app *Ente Auth*
 
