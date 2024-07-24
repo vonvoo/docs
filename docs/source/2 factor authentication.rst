@@ -71,7 +71,13 @@ Install on your smartphone.
    - Repeat this process for the password
    - Save the account settings within the app, *Ente Auth*
 4. Verify your email address.
-5. On your computer, log into Ente ``https://web.ente.io``
+5. On your computer, log into Ente...
+
+.. note::
+
+   External link: https://web.ente.io
+
+...
 
    - Click on Settings (top-left) and click on Two-Factor
    - Enable 2FA
@@ -84,21 +90,38 @@ Install on your smartphone.
 |logo_ente_auth| Usage
 ------------
 
-This section is under construction.
+  .. note::
+
+   While Vonvoo no longer recommends the 2FA app *Authy*, we can use their documentation as a resource. Whenever they refer to their product, simply use app *Ente Auth* instead.  
+
+Enable 2FA for your core email account, using app *Ente Auth*...
+
+   - Use Authy documentation to add the 2FA entry to app *Ente Auth*
+
+.. note::
+
+   External link, gmail 2FA: https://authy.com/guides/googleandgmail/  
+
+   External link, all other 2FA: https://authy.com/guides/
+
+.. warning::
+
+   Do not use the app *Authy*. Only use the website for documentation.
+
 
 |logo_ente_auth| Migrate
 ------------
 
-All entries in any other *Authenticator Apps* should be migrated to *Ente Auth*. This process will be the similar to the :ref:`2fa-usage` Tutorial section.
+All entries in any other *Authenticator Apps* should be migrated to *Ente Auth*. This process will be the similar to the :ref:`2fa-usage` Tutorial section This process should be completed in the final Essentials Tutorial.
 
    - Navigate, in a browser, to the account security section of the online account, detailed in the :ref:`2fa-usage` section.
       
       - Within the online account, remove the current Authenticator App entry. Then follow :ref:`Ente Auth Documentation <2fa-Ente Auth-documentation>` to add a new 2FA entry in the *Ente Auth* app.
-   - In the old Authenticator App, delete that entry.
+   - In the old Authenticator App, delete that entry. When the old Authenticator App has no entries, uninstall the app.
 
   .. note::
 
-   If you use Duo Push for work, leave that single entry in the Duo app.   
+   If you use Duo Push for work, leave those entries in the Duo app.   
 
 .. _2fa-essential-recovery:
 
