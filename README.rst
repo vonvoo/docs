@@ -1,9 +1,7 @@
-Template for the Read the Docs tutorial
+Vonvoo - Secure your digital assets
 =======================================
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
+This GitHub repo includes the tutorials.
 
-Read the tutorial here:
-
-https://docs.readthedocs.io/en/stable/tutorial/
+https://docs.vonvoo.com
+https:///vonvoo.com
