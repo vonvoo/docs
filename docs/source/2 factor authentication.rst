@@ -71,7 +71,8 @@ Install on your smartphone.
    - Repeat this process for the password
    - Save the account settings within the app, *Ente Auth*
 4. Verify your email address.
-5. On your computer, log into Ente``https://web.ente.io``:
+5. On your computer, log into Ente ``https://web.ente.io``
+
    - Click on Settings (top-left) and click on Two-Factor
    - Enable 2FA
    - On your smartphone, in the app *Ente Auth* scan this QR code.
