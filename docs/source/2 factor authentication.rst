@@ -34,7 +34,7 @@ Why this software?
 
    If you currently use an *Authenticator App*, all entries will be migrated to *Ente Auth*.  
 
-   If you use the *Authenticator App* Authy that is no longer recommended by Vonvoo, please visit the Migrate section down below. Read the blog post for details.
+   If you use the *Authenticator App* Authy that is no longer recommended by Vonvoo, please visit the Migrate section down below. Read the blog post `Migrate away from 2FA app Authy by Twilio <`https://vonvoo.com/2024-07-23-Depreciated_Apps_Authy-by-Twilio//>`_  for details.
    
 .. _2fa-install:
 
