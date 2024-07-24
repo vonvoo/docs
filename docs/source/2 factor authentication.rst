@@ -14,10 +14,10 @@ Resulting workflow: Typical, online account, login steps
       
 .. _2fa-software:
 
-|logo_enty_auth_bg| Software
+|logo_ente_auth_bg| Software
 ------------
 
-.. |logo_enty_auth_bg| image:: images/2_factor_authentication/logo_enty_auth.png
+.. |logo_ente_auth_bg| image:: images/2_factor_authentication/logo_ente_auth.png
    :width: 15%
 
 **Ente Auth**
@@ -36,10 +36,10 @@ Why this software?
    
 .. _2fa-install:
 
-|logo_enty_auth| Install
+|logo_ente_auth| Install
 ------------
 
-.. |logo_enty_auth| image:: images/2_factor_authentication/logo_enty_auth.png
+.. |logo_ente_auth| image:: images/2_factor_authentication/logo_ente_auth.png
    :width: 8%
 
 Install on your smartphone.
@@ -50,7 +50,7 @@ Install on your smartphone.
 
 .. _2fa-account:
 
-|logo_enty_auth| Account
+|logo_ente_auth| Account
 ------------ 
 
 1. On your smartphone, open the app *Ente Auth* and choose sign up.
@@ -77,12 +77,12 @@ Install on your smartphone.
 
 .. _2fa-usage:
 
-|logo_enty_auth| Usage
+|logo_ente_auth| Usage
 ------------
 
 This section is under construction.
 
-|logo_enty_auth| Migrate
+|logo_ente_auth| Migrate
 ------------
 
 All entries in any other *Authenticator Apps* should be migrated to *Ente Auth*. This process will be the similar to the :ref:`2fa-usage` Tutorial section.
