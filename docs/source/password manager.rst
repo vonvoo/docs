@@ -46,9 +46,9 @@ Why this software?
 |logo_bitwarden| Account
 ------------ 
 
-1. Create an account using your core email address
+1. Create an account with Bitwarden using your core email address
 
-   - Use a Gmail, Outlook, iCloud, or Proton email account. Do not use another email provider (unless you are certain they have a track record of good security).
+   - Your core email address is the most important one.
 
 2. A *Bitwarden Master Password* is needed.
 
