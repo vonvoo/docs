@@ -76,7 +76,7 @@ Reminder: :ref:`Primary <virtual-phone-numbers-choose-primary-provider>` and :do
    
 Reminder: :ref:`Set up 2FA <2fa-usage>`
       
-   - Use :ref:`Authy Documentation <2fa-authy-documentation>` to navigate through the online, account provider.
+   - Use :ref:`2FA Documentation <2fa-authy-documentation>` to navigate through the online, account providers. Remember, use Authy for documentation and use the *Ente Auth* app to store the 2FA codes.
    - While logged into this online account, complete all 2 Factor Authentication steps.
       
 .. _bring-it-all-together-secure-all-accounts
