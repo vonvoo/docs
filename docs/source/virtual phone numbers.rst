@@ -61,7 +61,7 @@ Choose one of these providers for the Primary Virtual Phone Number
 
    - |logo_textnow| TextNow
 
-      - $5 USD per **year** for Android or $5 USD per **month** for iPhone.
+      - $8 USD per month on Android and similar on iOS
       - Problematic sending pictures via Android
       - Not supported by WhatsApp
       - Does not support email-to-SMS
@@ -123,9 +123,16 @@ On a computer:
       
       - On the *Google Voice* webpage, choose a new *Google Voice* phone number to use:
       
-         - Suggestion: choose an area code and region where you have not lived (this helps to identify spam).
+         - Suggestion: choose an area code and region where you have not lived (this helps to identify spam). This will be a temporary phone number. Follow the next steps.
+      
+      - From any U.S.A. phone provider, purchase the cheapest pre-paid cellphone plan for a month, then port the number to Google Voice for a 1-time fee of $20.  This ensures that your phone number will not change in Google Voice. This is critial for SMS-based account verification.
+
+.. note:: Port a phone number to Google Voice:
    
-   - In this *BitWarden* account entry's Notes section, add a line saying something like: ``VN GoogleVoice your_number`` 
+   - External link: https://support.google.com/voice/answer/1065667?hl=en
+
+
+In this *BitWarden* account entry's Notes section, add a line saying something like: ``VN GoogleVoice your_number``
 
 .. _virtual-phone-numbers-googlevoice-configure:
 
