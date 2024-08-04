@@ -31,12 +31,12 @@ These options were chosen for Security, Reliability and Availabilty.
 
 .. _virtual-phone-numbers-esim-provider:
 
-Aquire an eSIM
+Aquire an eSIM - if possible
 ---------
 
-There will be exceptions, where *Virtual Phone Numbers* will not be accepted, such as Google account creation and Uber. A minimal plan for SMS and calls should be chosen from an eSIM provider (smartphone must be compatible). An eSIM can be aquired from companies like GoogleFi or T-Mobile and typically cost $15 USD per month.
+There will be exceptions, where *Virtual Phone Numbers* will not be accepted. A minimal plan for SMS and calls should be chosen from an eSIM provider (smartphone and region must be compatible). A Web Search like ``eSIM MVNO your_region budget`` can help.
 
-   - Use this as the very last resort. Wherever possible, use *Virtual Phone Numbers*.
+   - For account verification, use this as the very last resort. Wherever possible, use *Virtual Phone Numbers*.
    - If eSIM is not an option for you, know that any account associated with your physical SIM/phone provider is less secure and losing this phone/SIM card will potentially prevent your access to these associated accounts.
 
 .. note::
