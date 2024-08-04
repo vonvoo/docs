@@ -52,6 +52,24 @@ Follow the on-screen instructions to complete the registration process.
 |logo_signal| Configure
 ------------
 
+Strengthen your Signal encryption
+   
+   - On your smartphone, open the *Signal* app
+   
+      - Navigate to Settings > Account > Change your PIN
+         
+         - Tap 'Create alphanumeric PIN
+
+            - In app *Bitwarden*, create a new entry for Signal.  
+
+               - Note the associated registration phone number in this entry.
+
+               - Generate a strong PIN
+
+      - Paste this PIN into app *Signal* for the new PIN
+
+         - Once saved, you may wish to disable 'PIN reminders'
+
 Make Disappearing Messages the default
    
    - On your smartphone, open the *Signal* app
