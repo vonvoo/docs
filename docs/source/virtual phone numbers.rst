@@ -11,7 +11,7 @@ Solution: Use a few *Virtual Phone Number* providers.
 
 .. warning::
 
-   This approach is debated as a reliable method and may not be the intended use by the *Virtual Phone Number* providers. From experience, if one of the virtual numbers is accepted by the online account, it has NOT been rejected later. Further, it is defended here that using *Virtual Phone Numbers* is a much more robust and secure approach than relying on a Carrer Number, since *Virtual Phone Number* providers can be used on any new phone with any method of internet access (wifi or data from any SIM/cell provider).
+   This approach is debated as a reliable method and may not be the intended use by the *Virtual Phone Number* providers. From experience, if one of the virtual numbers is accepted by the online account, it has NOT been rejected later. Further, it is defended here that using *Virtual Phone Numbers* is a much more robust and secure approach than relying on a Carrier Number, since *Virtual Phone Number* providers can be used on any new phone with any method of internet access (wifi or data from any SIM/cell provider).
 
 Implementation: One will be configured now and others can be added :doc:`later <virtual phone numbers continued>`, when needed (often a total of 3 or 4 is sufficient).
 
