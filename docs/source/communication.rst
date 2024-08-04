@@ -19,7 +19,7 @@ Why this software?
 
 * Open-Source
 * Cross-Platform
-* Does not log metadata  (fully encrypted)
+* Fully encrypted, including metadata (does not capture to whom you talk, and when)
 * Advocates for user privacy
 
 |logo_signal| Install
