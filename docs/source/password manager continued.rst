@@ -14,7 +14,7 @@
 .. |logo_bitwarden| image:: images/password_manager/logo_bitwarden.png
    :width: 8%
 
-*Bitwarden* will only require the *Bitwarden 2FA Code*, when signing into a browser or when signing into the app for the first time (new smartphone, computer, etc). This 2FA will be retrieved from *Enty Auth*. Should any device with your *Bitwarden* or *Enty Auth* become inaccessible, the *Bitwarden Recovery Code* will be used - it is 39 characters long. This is considered a disaster recovery scenario and steps will be taken to plan for that possiblity.
+*Bitwarden* will only require the *Bitwarden 2FA Code*, when signing into a browser or when signing into the app for the first time (new smartphone, computer, etc). This 2FA will be retrieved from *Ente Auth*. Should any device with your *Bitwarden* or *Ente Auth* become inaccessible, the *Bitwarden Recovery Code* will be used - it is 39 characters long. This is considered a disaster recovery scenario and steps will be taken to plan for that possiblity.
 
 .. warning::
 
@@ -126,7 +126,7 @@ On your computer...
    4. Choose **Two-step Login** (top-middle)
    5. Choose Providers > Authenticator App > **Manage**
       
-      - On your smartphone, open the *Enty Auth* app. Tap the plus button (bottom-right) and choose Add Account. Scan a QR code and save the entry.
+      - On your smartphone, open the *Ente Auth* app. Tap the plus button (bottom-right) and choose Add Account. Scan a QR code and save the entry.
          
          - Enter the TOTP (verification code), in the browser.
          
