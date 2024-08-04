@@ -131,6 +131,10 @@ On a computer:
    
    - External link: https://support.google.com/voice/answer/1065667?hl=en
 
+.. warning::
+
+   Do not rely upon the free number provided. Google will reuse the phone number for another account after a period of inactivity. A ported number will resolve this. It is a 1-time fee and will dedicate this number to this account.
+
 
 In this *BitWarden* account entry's Notes section, add a line saying something like: ``VN GoogleVoice your_number``
 
