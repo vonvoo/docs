@@ -106,4 +106,10 @@ Using these tools, secure all of your accounts in this order:
       - Shopping
       - Etc.
 
-This Tutorial is complete!
+This Tutorial is complete!  
+
+You've reached the end of the Vonvoo Essentials Tutorials!  
+
+Check back again, as the security landscape and the apps recommended evolve.  
+
+
