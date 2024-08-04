@@ -143,24 +143,31 @@ The second entry should be for your core email account. Record the following:
 
 2. Username: email address
 3. Current password
-4. Notes
+4. URL
+
+   - In your browser, navigate to your email account provider's login page. Take care to verify this is the correct URL.
+
+      - Paste the URL into this account entry field within app *Bitwarden*
+
+
+5. Notes
 
    - Date of birth used
    - Any password hints or required info from the email provider
 
-5. Save the entry
-6. Now log into your email account, being sure to login in by pasting the email address and password from Bitwarden into the web-login
-7. In Bitwarden, copy the current email account's password and paste it into the top of the notes field
-8. Use the password generator button to create a new, secure password
-9. Save the entry in *Bitwarden*.
-10. In the browser, navigate to the account provider's \"change password\" form.
-11. Change the password using copy/paste via *Bitwarden*.
+6. Save the entry
+7. Now log into your email account, being sure to use the URL and credential from *Bitwarden* into the web-login
+8. In Bitwarden, copy the current email account's password and paste it into the top of the notes field
+9. Use the password generator button to create a new, secure password
+10. Save the entry in *Bitwarden*.
+11. In the browser, navigate to the account provider's \"change password\" form.
+12. Change the password using copy/paste via *Bitwarden*.
 
    - If the account provider returns an error about the new password, this generally means that they have bad security policies for passwords.
    
       - A new email provider should be used, though you will still benefit from changing this password anyway. Modify the password in *Bitwarden* to satisfy their requirements and paste this new password into the password field for the online account.
       - Once successful, save the entry in *Bitwarden*
-10. Log out of the online service and log back in, using copy/paste via *Bitwarden*, to verify that the password change was successful.
+13. Log out of the online service and log back in, using copy/paste via *Bitwarden*, to verify that the password change was successful.
 
 Example for an email account
 
