@@ -113,4 +113,4 @@ You've reached the end of the Vonvoo Essentials Tutorials!
 
 .. note::
 
-   Check back again, as the security landscape and the recommended apps evolve. Until the RSS feed is available, get updates here: <https://vonvoo.com/blog/
+   Check back again, as the security landscape and the recommended apps evolve. Until the RSS feed is available, get updates here: <https://vonvoo.com/blog/>
