@@ -110,5 +110,8 @@ This Tutorial is complete!
 
 You've reached the end of the Vonvoo Essentials Tutorials!  
 
-Check back again, as the security landscape and the recommended apps evolve. To receive notifications, add <https://vonvoo.com/*.xml>`_ to your RSS app.
+
+.. note::
+
+   Check back again, as the security landscape and the recommended apps evolve. To receive notifications, add <https://vonvoo.com/*.xml>`_ to your RSS app.
 
