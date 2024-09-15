@@ -98,7 +98,7 @@ Using these tools, secure all of your accounts in this order:
       
       - Move through them, one by one, until the note is no longer needed.
          
-         - Delete or destroy the note.
+         - Permanently delete or destroy the note.
 
    4. Account Category Continued
       
