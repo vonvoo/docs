@@ -106,11 +106,11 @@ Using these tools, secure all of your accounts in this order:
       - Shopping
       - Etc.
 
+.. note::
+
+   For updates to apps/recommendations, consider adding the `Vonvoo RSS Feed <https://vonvoo.com/feed.xml>`_ to your RSS app, or visit the `Vonvoo Blog <https://vonvoo.com/blog/>`_ for the same content.  
+
 This Tutorial is complete!  
 
 You've reached the end of the Vonvoo Essentials Tutorials!  
 
-
-.. note::
-
-   Check back again, as the security landscape and the recommended apps evolve. Until the RSS feed is available, get updates here: https://vonvoo.com/blog/
